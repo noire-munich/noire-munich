@@ -6,7 +6,7 @@ Yup - developer, team lead, CTO, founder... whatever happened and may be in the 
 In 2021 I founded a company that uses RedwoodJS.
 
 ### I contribute
-Core Team member of @redwoodjs, I have a lot of love for it, the team, the people and the mission. I will happily freelance for Redwood projects, and if I can help in any way with yours, get in touch. It can just be an idea, doesn't have to be a codebase already.
+Core Team member of [@redwoodjs](https://github.com/redwoodjs/redwood), I have a lot of love for it, the team, the people and the mission. I will happily freelance for Redwood projects, and if I can help in any way with yours, get in touch. It can just be an idea, doesn't have to be a codebase already.
 
 At RedwoodJS, I will mostly do:
 - triage duties
