@@ -27,4 +27,4 @@ At RedwoodJS, I will mostly do:
 - I got a duck on my profile. Reminds me of home.
 - I'm voracious of european 20th century comic books, almost any genre of music and have a soft spot for gastronomy and arts (pre-raphaëlites! modern art!). For a couple of years I've been reading american early fantasy authors and a couple of sci-fi masters with great delight. Antiquity is my jam. I'm also reading old chinese, japanese and roman stuff.
 - I support the theory that Vincent Van Gogh was murdered.
-- I enjoy posting unedited photos & drawings [here](https://www.instagram.com/noire.munich/)
+- I enjoy posting unedited photos & drawings [here](https://www.instagram.com/noire.munich/) every odd year or so.
