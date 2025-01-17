@@ -4,6 +4,14 @@ I'm Thomas, noire-munich is the alias I go by on various communities. Don't get 
 ### I code
 Yup - developer, team lead, CTO, founder... whatever happened and may be in the future.
 In 2021 I founded a company that uses RedwoodJS.
+In 2024 I joined an old social media platform in need of a push to the future.
+In 2019 I was hired for my first position as a CTO.
+I've worked 10 years mostly on PHP before switching to JS - and I'm not looking back.
+Today I'm interested in AI, Functional Programming, React & Typescript.
+
+### I lead
+Having tried my hand at various leadership roles I can tell that I enjoy it as much as I enjoy coding.
+I focus on building teams with a strong tech culture and a knack for delivery quality. My coworkers are expected to deliver more and aim higher, in return they have my full support to pursue their natural growth and we gift each others with much more autonomy than more traditional leadership styles. I specialize in detecting the issues affecting entire teams that pass beneath everyone's radar, with one goal in mind: make sure we all go in the same direction, together.
 
 ### I contribute
 Core Team member of [@redwoodjs](https://github.com/redwoodjs/redwood), I have a lot of love for it, the team, the people and the mission. I will happily freelance for Redwood projects, and if I can help in any way with yours, get in touch. It can just be an idea, doesn't have to be a codebase already.
@@ -25,6 +33,7 @@ At RedwoodJS, I will mostly do:
 - I studied psychology, journalism and "graphic novel craft".
 - Self-taught. It's a bit of a lifestyle as it means exploring a lot on my own and exposing myself to the possibility of creation and its mishaps. I stay away of cars and do not drive.
 - I got a duck on my profile. Reminds me of home.
-- I'm voracious of european 20th century comic books, almost any genre of music and have a soft spot for gastronomy and arts (pre-raphaëlites! modern art!). For a couple of years I've been reading american early fantasy authors and a couple of sci-fi masters with great delight. Antiquity is my jam. I'm also reading old chinese, japanese and roman stuff.
+- I'm voracious of european 20th century comic books, almost any genre of music and have a soft spot for gastronomy and arts (pre-raphaëlites! modern art!). For a couple of years I've been reading american early fantasy authors and a couple of sci-fi masters with great delight. Antiquity is my jam. I'm also reading old chinese, japanese and roman stuff - modern translations.
 - I support the theory that Vincent Van Gogh was murdered.
 - I enjoy posting unedited photos & drawings [here](https://www.instagram.com/noire.munich/) every odd year or so.
+- Jag lär mig svenska.
